@@ -1,0 +1,14 @@
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\bin\Debug\net6.0\Room_Calcuator.exe
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\bin\Debug\net6.0\Room_Calcuator.deps.json
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\bin\Debug\net6.0\Room_Calcuator.runtimeconfig.json
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\bin\Debug\net6.0\Room_Calcuator.dll
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\bin\Debug\net6.0\Room_Calcuator.pdb
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\obj\Debug\net6.0\Room_Calcuator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\obj\Debug\net6.0\Room_Calcuator.AssemblyInfoInputs.cache
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\obj\Debug\net6.0\Room_Calcuator.AssemblyInfo.cs
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\obj\Debug\net6.0\Room_Calcuator.csproj.CoreCompileInputs.cache
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\obj\Debug\net6.0\Room_Calcuator.dll
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\obj\Debug\net6.0\refint\Room_Calcuator.dll
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\obj\Debug\net6.0\Room_Calcuator.pdb
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\obj\Debug\net6.0\Room_Calcuator.genruntimeconfig.cache
+C:\Users\ksole\Documents\Grand Circus Bootcamp\Room_Calcuator\obj\Debug\net6.0\ref\Room_Calcuator.dll
